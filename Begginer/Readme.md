@@ -1,4 +1,4 @@
-# Python Course Notes 🐍
+# Python Course Notes 
 
 Hey! These are my code notes from the freeCodeCamp **"Learn Python – Full Course for Beginners"** video.
 Every topic from the video has its own little file, so you can open one, read the comments, and run it.
@@ -10,17 +10,15 @@ python filename.py
 
 ---
 
-## 📁 1_rock_paper_scissors
+##  1_rock_paper_scissors
 The warm-up project from the start of the video.
 
 - `rock_paper_scissors.py` – You type rock, paper or scissors and the computer picks one at random. Along the way it shows variables, functions, dictionaries, `input()`, the `random` library, lists, if/elif/else, nested ifs and f-strings.
 
 ---
 
-## 📁 2_fundamentals
+##  2_fundamentals
 The main chunk of the course. One file per topic, in the same order as the video.
-
-> The "Setup Python Locally" and "Creating New Repl" chapters are just installing stuff, so they don't have files. Just grab Python from python.org (or use Replit) and you're good.
 
 | File | What it's about |
 |---|---|
@@ -74,7 +72,7 @@ The main chunk of the course. One file per topic, in the same order as the video
 
 ---
 
-## 📁 3_blackjack
+##  3_blackjack
 The final project – a playable Blackjack game in the terminal. It's split into one file per class:
 
 - `card.py` – One playing card (suit + rank).
